@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "cli-progress": "^3.12.0",
+    "discord-webhook-node": "^1.1.8",
+    "noblox.js": "^4.14.1",
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0",
+    "simple-banner": "^1.1.3",
+    "string-progressbar": "^1.0.4"
+  },
+  "name": "foldz",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TTK",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
